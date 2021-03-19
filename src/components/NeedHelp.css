@@ -1,0 +1,15 @@
+.need-help__modal {
+  width: 550px;
+  font-family: 'Nunito', sans-serif;
+}
+
+.need-help__modal p {
+  font-size: 14px;
+}
+
+.need-help__modal .btn {
+  background-color: #1aebb6;
+  border: none;
+  font-size: 14px;
+  color: #000;
+}
