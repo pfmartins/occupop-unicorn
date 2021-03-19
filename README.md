@@ -1,12 +1,29 @@
 # Occupop Unicorn
 
-This project is a new pattern engagement to create login pages. See the best login template ever. 
+This project is a new pattern engagement to create login pages. See the best login template ever. \
+
+Was used the pattern "Kiss", Keep It Simple, Stupid.\
+
+Main technologies:\
+- Javascript\
+- ReactJS (v17)\
+- React testing-library (v11)\
+- bootstrap (v4)\
+- react-router-dom (v5)
+
+## Tricks & Tips
+Login have a 1 possible success point. You need be smart to check login successfuly. Tip: Paulo is a user from platform.
+
+Possbible users, try now!\
+pfm@gmail.com -> pfmail\
+paulo@email.com -> oluap\
+paulomartins@gmail.com -> pmartins
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-npm is available too..
+*npm* is available too..
 
 ### `yarn start`
 
@@ -29,22 +46,3 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Tricks & Tips
-Login have a 1 possible success point. You need be smart to check login successfuly. Tip: Paulo is a user from platform.
-
-Possbible users, try now!
-pfm@gmail.com -> pfmail
-paulo@email.com -> oluap
-paulomartins@gmail.com -> pmartins
